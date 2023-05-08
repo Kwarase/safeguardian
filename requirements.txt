@@ -1,2 +1,3 @@
 opennsfw2
 opencv
+protobuf
